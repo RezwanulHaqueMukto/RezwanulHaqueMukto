@@ -34,13 +34,7 @@ I offer a range of services to bring your digital dreams to life:
 
 ## Let's Connect! 🤝
 
-I am passionate about collaborating with clients to achieve their digital goals. Whether you have a project in mind or just want to chat, feel free to reach out. Let's create something remarkable together! 🌟🚀
-
-# Web ango ahead and d WordPress Developer 👨‍💻
-
-## Introduction 🌟
-
-Hello there! I'm passionate. If you have any questions or want to discuss potential opportunities, please don't hesitate to contact me. Looking forward to talking with you! 😊✉️
+Whether you have a project in mind or just want to chat, feel free to reach out. Let's create something remarkable together! 🌟🚀
 
 # For business inquiries
 rezwanulcontact@gmail.com
