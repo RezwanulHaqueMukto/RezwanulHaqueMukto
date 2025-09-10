@@ -1,41 +1,46 @@
-# Web and WordPress Developer | Vibe Code Cleanup👨‍💻
+Mohammad Rezwanul Haque Mukto 👨‍💻
 
-## Introduction 🌟
+Web & WordPress Developer | Vibe Code Cleanup
 
-Hello there! I'm a passionate web and WordPress developer with a knack for creating captivating and functional websites. My expertise lies in crafting seamless user experiences, utilizing cutting-edge technologies, and sprinkling a touch of creativity. 🎨✨
+🌟 About Me
 
-## Skills 🚀 
+I’m a passionate web and WordPress developer dedicated to turning ideas into seamless, visually stunning websites. I focus on creating smooth user experiences, leveraging modern technologies, and adding a creative spark to every project.
 
-Here are the superpowers I bring to the table:
+🚀 Skills & Expertise
 
-- **HTML**: Structuring web content with semantic precision.
-- **CSS**: Styling web pages to make them visually stunning.
-- **JavaScript**: Adding interactivity and dynamism to websites.
-- **Bootstrap**: Building responsive and mobile-friendly designs.
-- **WordPress Development**: Customizing WordPress themes and plugins to meet specific requirements.
-- **PHP**: Crafting server-side scripts for dynamic web functionalities.
-- **MySQL**: Designing and managing databases for efficient data storage.
-- **jQuery**: Simplifying DOM manipulation and enhancing user interactions.
-- **SCSS**: Harnessing the power of SCSS (Sass) to streamline CSS development.
+Front-End Development:
 
+HTML | CSS | SCSS | JavaScript | jQuery | Bootstrap
 
-## Learning 😎
- - **React**: Crafted by Facebook, is a dynamic JavaScript library for crafting user interfaces.
+Responsive & Mobile-First Design
 
-## Services Offered 🛠️
+Back-End Development:
 
-I offer a range of services to bring your digital dreams to life:
+PHP | MySQL | WordPress Theme & Plugin Development
 
-- **Web Development**: From concept to deployment, I'll create your dream website with a focus on functionality and aesthetics.
-- **WordPress Theme Development**: Tailoring custom themes to make your WordPress site truly unique and engaging.
-- **WordPress Plugin Development**: Crafting custom plugins to extend your website's capabilities and meet your specific needs.
-- **Responsive Design**: Ensuring your website looks splendid on all devices, providing an exceptional user experience. 
-- **Website Maintenance**: Keeping your website up-to-date, secure, and optimized for peak performance. 
+Learning & Growing:
 
-## Let's Connect! 🤝
+React – building interactive and dynamic user interfaces
 
-Whether you have a project in mind or just want to chat, feel free to reach out. Let's create something remarkable together! 🌟🚀
+🛠️ Services I Offer
 
-# For business inquiries
-rezwanulcontact@gmail.com
+Custom Web Development: End-to-end website creation with clean, functional design.
+
+WordPress Themes & Plugins: Tailor-made solutions for unique website needs.
+
+Responsive Design: Seamless experience across desktops, tablets, and mobile devices.
+
+Website Maintenance & Optimization: Secure, fast, and up-to-date websites.
+
+💡 Why Work With Me
+
+I combine technical expertise with a creative approach to craft websites that not only look great but perform flawlessly. Every project is an opportunity to deliver something remarkable.
+
+📬 Let’s Connect
+
+Whether it’s a project or a chat about the latest web trends, I’m just a message away!
+
+Email: rezwanulcontact@gmail.com
+
+LinkedIn: Mohammad Rezwanul Haque Mukto
 
